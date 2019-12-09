@@ -1,0 +1,284 @@
+.headerend button {
+  display: inline-block;
+  color: #fff;
+  fill: currentColor;
+  background-color: #3cb46e;
+  height: 30px;
+  width: 80px;
+  border: #3cb46e;
+  border-radius: 5px;
+  font-family: -apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helvetica,Ubuntu,Roboto,Noto,Segoe UI,Arial,sans-serif;
+}
+
+.searly {
+height: 40px;
+border-radius: 24px;
+width: 500px;
+background-color: #eee;
+font-size: 14px;
+border: 1px solid transparent;
+border-color: gray;
+}
+
+.searly input {
+border: none;
+background-color: #eee;
+font-size: 15px;
+width: 400px;
+}
+
+.ulli ul li{
+list-style-type: none;
+font-family: -apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helvetica,Ubuntu,Roboto,Noto,Segoe UI,Arial,sans-serif;
+}
+
+.leftstart {
+float: left;
+height: 40px;
+}
+
+.spano {
+display: inline-block;
+position: relative;
+bottom: 25px;
+}
+
+.spanp {
+display: inline-block;
+position: relative;
+left: 42px;
+bottom: 25px;
+font-family: -apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helvetica,Ubuntu,Roboto,Noto,Segoe UI,Arial,sans-serif;
+}
+
+body { 
+background-color: white;
+font-family:      Georgia, "Times New Roman", Times, serif;
+margin:           0px;
+overflow-x: hidden;
+}
+
+.spano a {
+font-weight: 600;
+font-family: -apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helvetica,Ubuntu,Roboto,Noto,Segoe UI,Arial,sans-serif;
+}
+
+.searly {
+display: inline-block;
+position: relative;
+left: 60px;
+bottom: 45px;
+}
+
+.searly img {
+position: relative;
+top: 11px;
+left: 10px;
+}
+
+.searly input {
+position: relative;
+left: 15px;
+top: 7px;
+}
+
+.rightend ul li{
+display: inline-block;
+}
+
+.rightend {
+position: relative;
+left: 700px;
+bottom: 95px;
+}
+
+.ulli ul li{
+margin-right: 50px;
+font-size: 18px;
+color: gray;
+}
+
+.anniu button{
+background: white;
+color: gray;
+border: 1px solid transparent;
+border-color: gray;
+border-radius: 5px;
+height: 30px;
+width: 130px;
+position: relative;
+left: 300px;
+bottom: 38px;
+margin-left: 50px;
+}
+
+.headerend {
+position: relative;
+bottom: 65px;
+left: 600px;
+}
+
+.headerend a {
+font-size: 18px;
+font-family: -apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helvetica,Ubuntu,Roboto,Noto,Segoe UI,Arial,sans-serif;
+margin-right: -5px;
+color: gray;
+}
+
+.headerend button {
+margin-left: 30px;
+font-family: -apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helvetica,Ubuntu,Roboto,Noto,Segoe UI,Arial,sans-serif;
+}
+
+.kaitou {
+position:fixed; 
+left:0;
+top:0;
+margin: 15px;
+height: 70px;
+}
+
+header {
+height: 75px;
+}
+
+.daohang table tr th {
+font-weight: 180;
+font-family: -apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helvetica,Ubuntu,Roboto,Noto,Segoe UI,Arial,sans-serif;
+padding-right: 20px;
+color: grey;
+}
+
+.xddimg{
+  width: 100%;
+}
+
+.black {
+  padding-left: 15px;
+}
+
+.daohang {
+  padding-bottom: 15px;
+}
+
+.xddd {
+  position: relative;
+  bottom: 500px;
+  left: 20%;
+  
+}
+
+.xxd {
+  color: white;
+  font-size: 46px;
+  line-height: 1.2;
+  font-family: -apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helvetica,Ubuntu,Roboto,Noto,Segoe UI,Arial,sans-serif;
+}
+
+.xddd span {
+  display: block;
+  color: white;
+  position: relative;
+  bottom: 15px;
+  font-family: -apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helvetica,Ubuntu,Roboto,Noto,Segoe UI,Arial,sans-serif;
+}
+
+.sear input{
+  border: none;
+  background-color: #eee;
+  font-size: 15px;
+  width: 600px;
+  position: relative;
+  top: 12px;
+}
+
+.sear {
+  height: 50px;
+  border-radius: 24px;
+  width: 800px;
+  background-color: #eee;
+  font-size: 14px;
+  border-radius: 10px;
+}
+
+.sear img{
+  position: relative;
+  top: 15px;
+  margin-left: 10px;
+}
+
+.dgk {
+  color: white;
+  position: relative;
+  top: 40px;
+  font-family: -apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helvetica,Ubuntu,Roboto,Noto,Segoe UI,Arial,sans-serif;
+}
+
+.ends {
+  position: relative;
+  top: 280px;
+  right:295px;
+}
+
+.ends a {
+  color: white;
+  font-family: -apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helvetica,Ubuntu,Roboto,Noto,Segoe UI,Arial,sans-serif;
+}
+
+.endss {
+  position: relative;
+  top: 265px;
+  left: 320px;
+}
+
+.endsx {
+  color: gray;
+  font-family: -apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helvetica,Ubuntu,Roboto,Noto,Segoe UI,Arial,sans-serif;
+}
+
+.endsxs {
+  color:gray;
+  font-family: -apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helvetica,Ubuntu,Roboto,Noto,Segoe UI,Arial,sans-serif;
+}
+
+.ssx {
+  position: relative;
+  top: 248px;
+  left: 960px;
+  color: gray;
+  font-family: -apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helvetica,Ubuntu,Roboto,Noto,Segoe UI,Arial,sans-serif;
+}
+
+.one,.two,.three {
+  display: inline-block;
+  margin: 10px;
+}
+
+.tupian img {
+  width: 400px;
+  margin-bottom: 20px;
+}
+
+.one img {
+  display: block;
+  position: relative;
+  bottom: 50px;
+}
+
+.two img {
+  display: block;
+  position: relative;
+  bottom: 1589px;
+}
+
+.three img {
+  display: block;
+  position: relative;
+  bottom: 1490px;
+}
+
+.tupian {
+  text-align: center;
+  position: relative;
+  bottom: 150px;
+}
