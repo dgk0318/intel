@@ -67,7 +67,9 @@ font-family: -apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helve
 display: inline-block;
 position: relative;
 left: 60px;
+width: 600px;
 bottom: 45px;
+border: none;
 }
 
 .searly img {
@@ -93,7 +95,8 @@ bottom: 95px;
 }
 
 .ulli ul li{
-margin-right: 50px;
+margin-right: -50px;
+margin-left: 85px;
 font-size: 18px;
 color: gray;
 }
@@ -109,7 +112,7 @@ width: 130px;
 position: relative;
 left: 300px;
 bottom: 38px;
-margin-left: 50px;
+margin-left: 120px;
 }
 
 .headerend {
@@ -131,9 +134,6 @@ font-family: -apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helve
 }
 
 .kaitou {
-position:fixed; 
-left:0;
-top:0;
 margin: 15px;
 height: 70px;
 }
@@ -145,7 +145,7 @@ height: 75px;
 .daohang table tr th {
 font-weight: 180;
 font-family: -apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helvetica,Ubuntu,Roboto,Noto,Segoe UI,Arial,sans-serif;
-padding-right: 20px;
+padding-right: 19px;
 color: grey;
 }
 
@@ -282,3 +282,4 @@ color: grey;
   position: relative;
   bottom: 150px;
 }
+
